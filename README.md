@@ -6,18 +6,17 @@
 
 Intégré une maquette ainsi que ses animations
 
-## Pour commencer
 
-### Les maquettes
+## Les maquettes
 
-#### Page d'acceuil et un Menu
+### Page d'acceuil et un Menu
 
 <img src="https://zupimages.net/up/20/45/ohn7.png" width="200" height="1200"/> <img src="https://zupimages.net/up/20/45/4vls.png" width="200" height="1000" align="left" />
 
-### Les animations
-#### Apparition des menus
+## Les animations
+### Apparition des menus
 ![](homepage.gif)
-#### Validation d'un plat
+### Validation d'un plat
 ![](menu.gif)
 
 ### Contrainte technique
