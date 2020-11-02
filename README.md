@@ -14,6 +14,9 @@ Intégré une maquette ainsi que ses animations
 
 <img src="https://zupimages.net/up/20/45/ohn7.png" width="200" height="1200"/> <img src="https://zupimages.net/up/20/45/4vls.png" width="200" height="1000" align="left" />
 
+#### Les animations
+![](homepage.gif)
+![](menu.gif)
 
 ### Contrainte technique
 
