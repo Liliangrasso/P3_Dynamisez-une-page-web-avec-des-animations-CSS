@@ -24,7 +24,6 @@
 }
 .loader h2 {
   position: absolute;
-  color: linear-gradient(#FF79DA, #9356DC);
   font-family: "Shrikhand", cursive;
   font-size: 22px;
 }

@@ -723,8 +723,6 @@ body #restaurants .coeur:hover {
   -o-transition: ease-in-out 0.3s;
   transition: ease-in-out 0.3s;
   background-image: url(../img/coeur/CoeurPlein.png);
-  filter: blur(1);
-  -webkit-filter: blur(1);
 }
 @media (min-width: 375px) and (orientation: landscape) and (-webkit-min-device-pixel-ratio: 2) {
   body #restaurants {
